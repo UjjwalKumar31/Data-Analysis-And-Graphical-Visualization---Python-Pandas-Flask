@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataFrame Display</title>
+    <!-- Optional: Include Bootstrap for table styling -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        .button-container {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .flex-button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px 20px;
+            margin: 0 10px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+          }
+
+    </style>
+</head>
+<body>
+    <div class="button-container">
+        <a href="/" class="flex-button">Home</a>
+    </div>
+
+    <div class="container mt-4">
+        <h1 align="center">{{ title }}</h1>
+        
+        <!-- Display the DataFrame as a table -->
+        {{ table | safe }}
+    </div>
+    <h1 align="center">Plot Display</h1>
+    
+    <!-- Display the plot -->
+    <div class="container mt-4" align="center">
+        <img src="data:image/png;base64,{{ plot }}" alt="Plot">
+    </div>
+</body>
+</html>

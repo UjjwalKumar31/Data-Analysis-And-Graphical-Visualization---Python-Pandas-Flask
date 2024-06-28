@@ -1,0 +1,26 @@
+2> Strategic Recommendations for Improvement: Based on the cost and profitability analysis, 
+identifying actionable strategies to reduce costs, adjust pricing, commission fees, and discount strategies to improve profitability. 
+This includes finding a “sweet spot” for commission and discount percentages that ensures profitability across orders.
+
+>> After analyzing the extract, below are the recommendations :
+    1. Discounts and Offers Coupon of '10%' is  most popular among customers and profitable for organization followed by '15% New User', 
+    Hense, these offers should be highly promoted.
+    2. The order delivery time should be reduced in order to get higher customer acquisition and the expenses needs to be reduced which includes
+    'Delivery Fee', 'Payment Processing Fee', 'Refunds/Chargebacks' charges in order to achieve higher profitability.
+    3. Order count at month of January is high compared to other and contributes much profit. The avg expenses/cost in this month is 86.51.
+    Introducing new discount and offers or availing popular discount for customers with reduced delivery charges can help to gain much attention
+    and will increase profitability
+    4. Mumbai location generates high revenue and profit for organization and achieve high number of orders compare to other locations. 
+    Need to improve services in other locations to attract good number of head counts.
+
+
+
+#Please find extract for below in extract folder
+-- Profitability Evaluation
+-- City with corresponding order count and revenue generated 
+-- Revenue/commision trend on monthly basis
+-- Most/least profitable resturant---probable reason for being profitable and non profitable
+-- Most popular & most profitable discount offer
+-- Most/least profitable discount offer resturant wise
+-- Popular payment method resturant wise
+-- Time variant analysis on the order..like avg cost , no of orders per month, week. 

@@ -1,0 +1,20 @@
+
+Please provide the high level summary of this data like....total customers, total reveneue generated, commission.
+
+1>Detailed Cost Analysis: Identifying the major cost components associated with delivering food orders, including direct costs like delivery fees 
+and indirect costs like discounts and payment processing fees on follwing lines :-
+
+Hint :- profit-> Commision Fee- (Delivery Fee +Payment Processing Fee+Refunds/Chargebacks)
+
+-- Profitability Evaluation
+-- City with corresponding order count and revenue generated 
+- Revenue/commision trend on monthly basis
+- Most/least profitable resturant---probable reason for being profitable and non profitable
+- Most popular & most profitable discount offer
+- Most/least profitable discount offer resturant wise
+- Popular payment method resturant wise
+- Time variant analysis on the order..like avg cost , no of orders per month, week. 
+ 
+2> Strategic Recommendations for Improvement: Based on the cost and profitability analysis, identifying actionable strategies to reduce costs, adjust pricing, commission fees, and discount strategies to improve profitability. This includes finding a “sweet spot” for commission and discount percentages that ensures profitability across orders.
+
+3>Impact Simulation of Proposed Strategies: Simulating the financial impact of the recommended strategies on profitability, using the dataset to forecast how adjustments in commission rates and discount strategies could potentially transform current losses into profits.
